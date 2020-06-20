@@ -3,4 +3,11 @@
     <string name="btnCalc">Calcula</string>
     <string name="hintN2">Número 2</string>
     <string name="hintN1">Número 1</string>
+    <string name="errorMessageIV">Valor não permitido, confira os valores inseridos.</string>
+    <string-array name="spinnerArray">
+        <item>Adição</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+    </string-array>
 </resources>
